@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartScreen.unity
+    guid: 116d636295348b8418a370f5484150cf
+  - enabled: 1
+    path: Assets/Scenes/OverWorld.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/battleArena.unity
+    guid: 816ed90addd1c3b4c9a7115acad8fd91
+  - enabled: 1
+    path: Assets/Scenes/Bossbattle.unity
+    guid: 0ee8f657b88baf647bcd202a55624f49
+  - enabled: 1
+    path: Assets/Scenes/Defeated.unity
+    guid: 95fa529b60585d240b883ab0780e6964
+  - enabled: 1
+    path: Assets/Scenes/YouWon.unity
+    guid: ebb3260e83e786d4f941aa5622741bd9
+  - enabled: 1
+    path: Assets/Scenes/Konami.unity
+    guid: efe94a03cfd671042affbf477cbe4cbd
+  m_configObjects: {}
